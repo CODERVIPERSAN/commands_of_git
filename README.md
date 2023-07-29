@@ -1,6 +1,6 @@
 
 **Commands**
-
+<pre>
 git config --global user.name [username]   configure email and name
 git config --global user.email [your email]  ---config email
 git config user.name --view name
@@ -48,4 +48,4 @@ git remote -v  --->to check the connection between git and github
 git remote add origin [url of repo]
 
 git push origin master --> to push the repo to the github
-
+</pre>
